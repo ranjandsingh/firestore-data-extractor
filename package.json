@@ -1,0 +1,23 @@
+{
+  "name": "firestore-data-extractor",
+  "version": "1.0.0",
+  "description": "Firestore data extractor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjandsingh/firestore-data-extractor.git"
+  },
+  "keywords": [
+    "firestore",
+    "data"
+  ],
+  "author": "Ranjan Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjandsingh/firestore-data-extractor/issues"
+  },
+  "homepage": "https://github.com/ranjandsingh/firestore-data-extractor#readme"
+}
